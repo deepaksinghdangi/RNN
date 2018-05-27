@@ -2,8 +2,10 @@
 
 # Links
 
-RNN and LSTM slides: http://bit.ly/2sO00ZC
-Luis Serrano's Friendly Intro to RNNs: https://youtu.be/UNmqTiOnRfg
+RNN and LSTM slides: http://bit.ly/2sO00ZC.
+
+Luis Serrano's Friendly Intro to RNNs: https://youtu.be/UNmqTiOnRfg.
+
 How neural networks work video: https://youtu.be/ILsA4nyG7I0
 Chris Olah's tutorial: http://bit.ly/2seO9VI
 Andrej Karpathy's blog post: http://bit.ly/1K610Ie
